@@ -1,13 +1,14 @@
 <h1 style="text-align: center;">Matthias Blumenschein</h1>
 
-Hi, I am a FrontEnd Developer 🦸‍🖥, former mechanical engineer ⚙, who loves coding, challenges, and chocolate.
+Hi, I am a FrontEnd Developer 🦸‍🖥, former Mechanical Engineer ⚙, who loves coding, challenges, and chocolate. 👨🏼‍💻💪🏼🍫
 
 Quick facts:
 
+- 💡 Receiving new input everyday at SuperCode Bootcamp "Fullstack Development"
 - 💻 I’m currently improving my JavaScript skills
 - 🆕 I’m looking for an interesting new job
 - 📫 How to reach me: LinkedIn or Xing (see contact section)
-- 💬 Ask me about my architecture photography. Are you an art lover?
+- 💬 Ask me about my architecture photography! Are you an art lover?
 - 🛰 Fun fact: Had a phone call with the ISS astronauts in 2006
 
 
