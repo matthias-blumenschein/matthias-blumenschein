@@ -1,6 +1,6 @@
 <h1 style="text-align: center;">Matthias Blumenschein</h1>
 
-Hi, I am a Frontend Developer 🦸‍🖥, former Mechanical Engineer ⚙, who loves clean coding, interesting challenges, and yummy chocolate. 👨🏼‍💻💪🏼🍫
+Hi, I am a Frontend Developer 🦸‍🖥, former Mechanical Engineer ⚙, who loves coding, challenges, and chocolate. 👨🏼‍💻💪🏼🍫
 
 Quick facts:
 
