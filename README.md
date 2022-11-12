@@ -22,7 +22,7 @@ Quick facts:
 
 ### Rock Paper Scissors Game ✊🏼✋🏼🖖🏼
 
-- Play the good old Rock Paper Scissors Game against the computer - push your luck!
+- Play the good old Rock Paper Scissors game against the computer - push your luck!
 - <a href="https://matthias-blumenschein.github.io/rock-paper-scissors/" target="_blank" rel="noopener">Website</a>
 - <a href="https://github.com/matthias-blumenschein/rock-paper-scissors" target="_blank" rel="noopener">GitHub Repo</a>
 
@@ -38,11 +38,17 @@ Quick facts:
 - <a href="https://matthias-blumenschein.github.io/designer-challenge/" target="_blank" rel="noopener">Website</a>
 - <a href="https://github.com/matthias-blumenschein/designer-challenge" target="_blank" rel="noopener">GitHub Repo</a>
 
+### To Do List 📝
+
+- JS based to do list
+- <a href="https://matthias-blumenschein.github.io/designer-challenge/" target="_blank" rel="noopener">Website</a>
+- <a href="https://github.com/matthias-blumenschein/designer-challenge" target="_blank" rel="noopener">GitHub Repo</a>
+
 ### Traveller 🌄
 
 - Fictional travel agency that offers tours through the Alps
-- <a href="https://matthias-blumenschein.github.io/traveller/" target="_blank" rel="noopener">Website</a>
-- <a href="https://github.com/matthias-blumenschein/traveller" target="_blank" rel="noopener">GitHub Repo</a>
+- <a href="https://matthias-blumenschein.github.io/To-Do-List/" target="_blank" rel="noopener">Website</a>
+- <a href="https://github.com/matthias-blumenschein/To-Do-List" target="_blank" rel="noopener">GitHub Repo</a>
 
 ## Contact ☎
 
