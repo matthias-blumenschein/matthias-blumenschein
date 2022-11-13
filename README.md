@@ -9,7 +9,7 @@ Quick facts:
 - 🆕 I’m looking for an interesting new job
 - 📫 How to reach out to me: LinkedIn or Xing (see contact section)
 - 💬 Ask me about my architecture photography! Are you an art lover?
-- 🛰 Fun fact: Had a phone call with the ISS astronauts in 2006
+- 🛰 Fun fact: I had a phone call with the ISS astronauts in 2006 during the International Space Olympics
 
 
 ## Projects 🗂
