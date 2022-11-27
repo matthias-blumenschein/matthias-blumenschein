@@ -5,12 +5,11 @@ Hi, I am a Frontend Developer 🦸‍🖥, former Mechanical Engineer ⚙, who l
 Quick facts:
 
 - 💡 Receiving new input everyday at SuperCode Bootcamp "Fullstack Development"
-- 💻 I’m currently improving my JavaScript skills
+- 💻 I’m currently improving my React skills
 - 🆕 I’m looking for an interesting new job
 - 📫 How to reach out to me: LinkedIn or Xing (see contact section)
 - 💬 Ask me about my architecture photography! Are you an art lover?
 - 🛰 Fun fact: I had a phone call with the ISS astronauts in 2006 during the International Space Olympics
-
 
 ## Projects 🗂
 
@@ -60,7 +59,7 @@ Quick facts:
 - <a href="https://matthias-blumenschein.github.io/traveller/" target="_blank" rel="noopener">Website</a>
 - <a href="https://github.com/matthias-blumenschein/traveller" target="_blank" rel="noopener">GitHub Repo</a>
 
-## Contact ☎
+## Contact 📬
 
 Feel free to reach out to me via the following platforms:
 
