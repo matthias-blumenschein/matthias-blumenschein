@@ -7,8 +7,7 @@ Quick facts:
 - 💡 Receiving new input everyday at SuperCode Bootcamp "Fullstack Development"
 - 💻 I’m currently improving my React skills
 - 🆕 I’m looking for an interesting new job
-- 📫 How to reach out to me: LinkedIn or Xing (see contact section)
-- 💬 Ask me about my architecture photography! Are you an art lover?
+- 📫 Feel free to reach out to me via <a href="https://www.linkedin.com/in/matthias-blumenschein-01b447189/" target="_blank" rel="noopener">LinkedIn</a>
 - 🛰 Fun fact: I had a phone call with the ISS astronauts in 2006 during the International Space Olympics
 
 ## Projects 🗂
@@ -33,10 +32,3 @@ Quick facts:
 - A Website that is dedicated to the communities affected by the 2018 wildfires
 - <a href="https://matthias-blumenschein.github.io/calling-california/" target="_blank" rel="noopener">Website</a>
 - <a href="https://github.com/matthias-blumenschein/calling-california" target="_blank" rel="noopener">GitHub Repo</a>
-
-## Contact 📬
-
-Feel free to reach out to me via the following platforms:
-
-- <a href="https://www.linkedin.com/in/matthias-blumenschein-01b447189/" target="_blank" rel="noopener">LinkedIn</a>
-- <a href="https://www.xing.com/profile/Matthias_Blumenschein/cv" target="_blank" rel="noopener">Xing</a>
