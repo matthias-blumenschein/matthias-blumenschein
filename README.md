@@ -15,6 +15,7 @@ Quick facts:
 ### Tasty Recipe App 🍝📱
 
 - React based project using an API; simulation of a smartphone app that allows the user to explore cooking recipes
+- <a href="https://tasty-repices.netlify.app/" target="_blank" rel="noopener">Website</a>
 - <a href="https://github.com/matthias-blumenschein/tasty" target="_blank" rel="noopener">GitHub Repo</a>
 
 ### Rock Paper Scissors Game ✊🏼✋🏼🖖🏼
