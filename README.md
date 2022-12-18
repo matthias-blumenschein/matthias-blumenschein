@@ -15,7 +15,7 @@ Quick facts:
 
 ### Web Apps
 
-#### Rock Paper Scissors Game ✊🏼✋🏼🖖🏼
+#### Tasty Recipe App 🍝📱
 
 - React based project using an API; simulation of a smartphone app that allows the user to explore cooking recipes
 - <a href="https://github.com/matthias-blumenschein/tasty" target="_blank" rel="noopener">GitHub Repo</a>
