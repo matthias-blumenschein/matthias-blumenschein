@@ -18,14 +18,14 @@ Quick facts:
 - <a href="https://tasty-repices.netlify.app/" target="_blank" rel="noopener">Website</a>
 - <a href="https://github.com/matthias-blumenschein/tasty" target="_blank" rel="noopener">GitHub Repo</a>
 
-### Rock Paper Scissors Game ✊🏼✋🏼🖖🏼
-
-- Play the good old Rock Paper Scissors game against the computer - push your luck!
-- <a href="https://matthias-blumenschein.github.io/rock-paper-scissors/" target="_blank" rel="noopener">Website</a>
-- <a href="https://github.com/matthias-blumenschein/rock-paper-scissors" target="_blank" rel="noopener">GitHub Repo</a>
-
 ### Calling California 🔥🌳
 
 - A Website that is dedicated to the communities affected by the 2018 wildfires
 - <a href="https://matthias-blumenschein.github.io/calling-california/" target="_blank" rel="noopener">Website</a>
 - <a href="https://github.com/matthias-blumenschein/calling-california" target="_blank" rel="noopener">GitHub Repo</a>
+
+### Movie Database 🎬🎥
+
+- I am working on a Movie Database with my friend  <a href="https://github.com/elmin-musija" target="_blank" rel="noopener">Elmin Musija</a>
+- It will be based on React and Next.js
+- Link coming soon 🔜
